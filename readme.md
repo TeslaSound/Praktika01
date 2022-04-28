@@ -6,6 +6,7 @@
 </head>
 <body>
    <h1>Main page</h1>
+    <h2>Cool</h2>
    <p>Some text</p>
 </body>
 </html>
